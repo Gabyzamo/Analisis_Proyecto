@@ -1,0 +1,12 @@
+Taller 1: Nota 3
+    * No tiene comentario en linea
+    * la variable nombre se declara, no se inicializa
+    * la variable apellido no se solicita en el Taller
+    * linea 9 sobra
+    * linea 10, a la variable se le asigna el valor por teclado, no se inicializa
+    * linea 11, el grado se inicializa directamente desde código, no por teclado
+    * linea 13, mensaje incorrecto
+
+Taller 2: Nota debe Sustentar (hay un error en código)
+    * operacion linea 24 incorrecta
+    * linea 29, no se debe pedir radio
