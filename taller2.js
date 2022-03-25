@@ -6,7 +6,7 @@ Realizado por: Gabriela Alejandra Zamora Roa
 //punto 1
 console.log("solucion punto 1");
 var lado=prompt("Por favor ingrese la medida del lado para hallar el área del cuadrado");
-consoler.log(areacuadrado);
+console.log(areacuadrado);
 var areacuadrado=lado**2;
 //volumen cubo
 var lado=prompt("por favor ingerse la medidas de los lados para el volumen");
@@ -88,7 +88,7 @@ console.log("Punto 7D");
 var kilo;
 var resultado4;
 kilo = parseInt(prompt("Favor ingresar los kilometros que quieres convertir a milimetros"))
-kilo = prompt("Favor ingresar los kilometros que quieres convertir a milimetros"))
+kilo = prompt("Favor ingresar los kilometros que quieres convertir a milimetros")
 resultado4 = kilo*1000000
 console.log("Los Kilometros han sido convertidos son " + resultado4 + " mm ")
 
