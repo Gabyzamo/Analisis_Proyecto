@@ -10,3 +10,8 @@ Taller 1: Nota 3
 Taller 2: Nota debe Sustentar (hay un error en código)
     * operacion linea 24 incorrecta
     * linea 29, no se debe pedir radio
+
+Taller 3(Recuperación): Nota 4. De ese 4 voy a tomar 0.5 para recuperar el primer taller y el resto se le asigna como nota del segundo
+    * linea 15, es multiplicacion
+    * linea 29, no debe llevar . porque 10.000 es un 10 y no un 10000
+    * Faltó punto 6
