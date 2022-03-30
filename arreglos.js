@@ -12,8 +12,42 @@ console.log(NotaEst);
 
 //recordar que las posiciones de un verctor o arreglo comienzan desde cero
 //consultar segun posicion
-[["sofia", 4.5],["mari",4.2]];
 console.log(NotaEst[0][0]);
+//4.5
+//Mari
+console.log(NotaEst[0][0]);
+console.log(NotaEst[0][1]);
+console.log(NotaEst[1][0]);
+
+
 NotaEst[1][0]="laura";
- console.log(NotaEst[1]);
- [["sofia", 45],["mari", 42]]
+console.log(NotaEst[1][0]);
+
+
+NotaEst[0][1]= 4.8;
+console.log(NotaEst[0][1]);
+
+//arreglar elemento al arreglo
+MiPrimerArreglo.push ("10B");
+console.log(MiPrimerArreglo);
+ MiPrimerArreglo.unshift("Gomez");
+ console.log(MiPrimerArreglo);
+
+//Eliminar elemento del arreglo
+MiPrimerArreglo.pop();
+console.log(MiPrimerArreglo)
+MiPrimerArreglo.shift()
+console.log(MiPrimerArreglo)
+
+//taller1
+var Materia=["Analisis","Tecnologia","Desarrollo"];
+console.log(Analisis);
+
+Materia[0]="Introduccion";
+console.log(Materia[0]);
+
+NotaEst[1]="Analisis"
+console.log(NotaEst[1]);
+
+NotaEst[2]="Tecnologia"
+console.log(NotaEst[2]);
