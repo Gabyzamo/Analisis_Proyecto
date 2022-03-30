@@ -8,3 +8,12 @@ VAR o LET seguidas del nombre de la regla*/
 var MiPrimerArreglo=["jose", 14];
 console.log(MiPrimerArreglo);
 var NotaEst=[["sofia", 4.5],["mari",4.2]];
+console.log(NotaEst);
+
+//recordar que las posiciones de un verctor o arreglo comienzan desde cero
+//consultar segun posicion
+[["sofia", 4.5],["mari",4.2]];
+console.log(NotaEst[0][0]);
+NotaEst[1][0]="laura";
+ console.log(NotaEst[1]);
+ [["sofia", 45],["mari", 42]]
