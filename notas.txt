@@ -15,3 +15,10 @@ Taller 3(Recuperación): Nota 4. De ese 4 voy a tomar 0.5 para recuperar el prim
     * linea 15, es multiplicacion
     * linea 29, no debe llevar . porque 10.000 es un 10 y no un 10000
     * Faltó punto 6
+
+Arreglos (observaciones generales del archivo): Nota Quiz 3
+    * Hacen falta algunos comentarios que se indican durante la explicacion de clase
+    * Hace falta código
+    * Solo resolvió el primer punto del quiz
+    * Ojo con los juegos en el computador, son esos la que no dejan que se concentre
+    
