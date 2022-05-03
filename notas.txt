@@ -1,3 +1,5 @@
+Gabriela Zamora
+
 Taller 1: Nota 3
     * No tiene comentario en linea
     * la variable nombre se declara, no se inicializa
@@ -22,3 +24,9 @@ Arreglos (observaciones generales del archivo): Nota Quiz 3
     * Solo resolvió el primer punto del quiz
     * Ojo con los juegos en el computador, son esos la que no dejan que se concentre
     
+
+
+
+************************************** segundo periodo
+
+Enlace examen: https://acortar.link/wzqjho
