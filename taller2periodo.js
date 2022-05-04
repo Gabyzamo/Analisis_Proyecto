@@ -64,6 +64,32 @@ if(diadepoli == "lunes" || diadepoli == "martes" || diadepoli == "miercoles" || 
 }else if(diadepoli == "jueves"){
     decimo="Si pueden entrar! :)"
 }
- //10 
+ //11
 
+ var dia 
+ var platito
+ dia="semana"
+
+if (dia == "lunes"){
+platito="arroz con pollo"
+console.log("el plato del dia es "+platito);
+}else if(dia== "martes" ){
+platito="chuleta de cerdo"
+console.log("el plato del dia es "+platito);
+}else if (dia == "miercoles"){
+platito="frijoles"
+console.log("el plato del dia es "+platito);
+}else if (dia == "jueves"){
+platito="sancocho de pescado"
+console.log("el plato del dia es "+platito);
+}else if (dia == "viernes"){
+platito="bandeja paisa"
+console.log("el plato del dia es "+platito);
+}else if (dia == "sabado"){
+platito="ajiaco"
+console.log("el plato del dia es "+platito);
+}else if (dia == "domingo"){
+platito="sancocho de gallina"
+console.log("el plato del dia es "+platito);
+}
 
