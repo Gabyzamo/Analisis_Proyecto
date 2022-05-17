@@ -1,4 +1,4 @@
-/*//1
+//1
 
 var contadorWhile1 = 0;
  
@@ -67,7 +67,7 @@ var profesor=prompt("ingrese el nombre del estudiante");
 var acu=0
 var contadorWhile8 = 0;
 var estudiantes=prompt("por favor ingrese la cantidad de notas del estudiante");
-while( contadorWhile8<=estudiantes){
+while( contadorWhile8<estudiantes){
     var notas=parseFloat(prompt("por favor ingrese la nota"));
     acu+=notas
     contadorWhile8 +=1;
@@ -80,7 +80,7 @@ console.log("el estudiante " +profesor+ " gano la asignatura con " +promedio);
     console.log("el estudiante " +profesor+ " perdio la asignatura con " +promedio);
 
 }
-*/
+
 var numEstudiantes=prompt("ingrese la cantidad de estudiantes")
 var contar=0
 while(contar<numEstudiantes){
