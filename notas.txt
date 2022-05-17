@@ -31,10 +31,10 @@ Arreglos (observaciones generales del archivo): Nota Quiz 3
 
 Enlace examen: https://acortar.link/wzqjho
 
-Examen condicionales: Nota 3.2
+Examen condicionales: Nota 3.6
     * linea 26, condicion incompleta
     * linea 32, valor incorrecto
     * linea 34, valor incorrecto
     * punto 4, no probaron, la suma de 5 y 9 es 16 no 59. Los valores no van entre comillas
     * punto 5, el valor de la variable pais se debe pedir solamente una vez, no con cada condicion. El condicional sugerido a utilizar era multiple ya que evalua hasta que encuentra la condicion que cumple. Al cambiar la variable de valor, ningun condicional funciona. Intente "mexico"
-
+ 
