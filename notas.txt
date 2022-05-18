@@ -37,9 +37,6 @@ Examen condicionales: Nota 3.6
     * linea 34, valor incorrecto
     * punto 4, no probaron, la suma de 5 y 9 es 16 no 59. Los valores no van entre comillas
     * punto 5, el valor de la variable pais se debe pedir solamente una vez, no con cada condicion. El condicional sugerido a utilizar era multiple ya que evalua hasta que encuentra la condicion que cumple. Al cambiar la variable de valor, ningun condicional funciona. Intente "mexico"
-<<<<<<< HEAD
- 
-=======
 
 Taller condicional: Nota 4.0
     * linea 4, falta el signo más o la coma para unir la cadena con la variable
@@ -49,4 +46,7 @@ Taller condicional: Nota 4.0
     * ¿Por qué borró los else de ese ejercicio?
     * Falta punto 12
 
->>>>>>> 255d3ba94a8bc1a732c325dcd33155a5871f1589
+Taller ciclo while: Nota 4.6(Sakae)
+    * linea 28, mensaje poco claro
+    * punto 7, falta el mensaje de felicitacion al ganar la rifa
+    * Faltaron los mensajes console.log() que separa cada punto en la consola para entender los resultados
