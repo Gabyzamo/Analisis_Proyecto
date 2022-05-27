@@ -50,3 +50,9 @@ Taller ciclo while: Nota 4.6(Sakae)
     * linea 28, mensaje poco claro
     * punto 7, falta el mensaje de felicitacion al ganar la rifa
     * Faltaron los mensajes console.log() que separa cada punto en la consola para entender los resultados
+
+Examen Ciclo While: Nota
+    * linea 4, un número para qué? debe ser más espcífico el mensaje
+    * punto 4, si la cantidad de articulo es mayor a 8 le aplica ese descuento y no toma las demás opciones del condicional. Debía limitar la condicion 
+        contadorWhile4 >= 8 && contadorWhile4 <=14
+    * No hay más puntos resueltos

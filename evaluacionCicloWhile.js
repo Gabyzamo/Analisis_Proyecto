@@ -1,4 +1,4 @@
-/*console.log("punto 1");
+console.log("punto 1");
 
 var contadorWhile1= 0;
 var numerito=prompt("Ingrese un numero");
@@ -62,6 +62,5 @@ else if(contadorWhile4>=25){
   
 }
 console.log("el total a pagar por sus productos es de $ " +pfinal);
-*/
 
 console.log("punto 5");
