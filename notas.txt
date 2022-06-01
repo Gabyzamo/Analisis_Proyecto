@@ -62,4 +62,4 @@ Para presentar notas de ciclo while Gabriela
 
 1. Cree un algoritmo de 8 ciclos que reciba el nombre y la edad de un estudiante. Con cada uno debe mostrar un mensaje que diga "el estudiante _____ tiene ___ años"
 2. Cree un algorimo que pregunte al usuario cuántos precios desea digitar y pida uno a uno con un ciclo while. Al finalizar, debe mostrar el total a pagar de la siguiente manera "por la compra de ___ articulos, usted debe pagar $___"
-3. cree un ciclo while que reciba la nota de 20 estudiantes, cada vez que reciba una nota, debe mostrar un mensaje al estudiante que diga "perdió la materia" en caso que haya sacado menos de 3.5 y "ganó la materia" si su nota fue mayor o igual que 3.5
+3. cree un ciclo while que reciba la nota de 20 estudiantes, cada vez que reciba una nota, debe mostrar un mensaje al estudiante que diga "perdió la materia" en caso que haya sacado menos de 3.5 y "ganó la materia" si su nota fue mayor o igual que 3.5.
