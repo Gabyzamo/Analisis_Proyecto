@@ -46,20 +46,13 @@ Taller condicional: Nota 4.0
     * ¿Por qué borró los else de ese ejercicio?
     * Falta punto 12
 
-Taller ciclo while: Nota 4.6 (Sakae)
+Taller ciclo while: Nota 4.6(Sakae)
     * linea 28, mensaje poco claro
     * punto 7, falta el mensaje de felicitacion al ganar la rifa
     * Faltaron los mensajes console.log() que separa cada punto en la consola para entender los resultados
 
-Examen Ciclo While: Nota 5 (Sakae)
+Examen Ciclo While: Nota 5
     * linea 4, un número para qué? debe ser más espcífico el mensaje
     * punto 4, si la cantidad de articulo es mayor a 8 le aplica ese descuento y no toma las demás opciones del condicional. Debía limitar la condicion 
         contadorWhile4 >= 8 && contadorWhile4 <=14
     * No hay más puntos resueltos
-
-
-Para presentar notas de ciclo while
-
-1. Cree un algoritmo de 8 ciclos que reciba el nombre y la edad de un estudiante. Con cada uno debe mostrar un mensaje que diga "el estudiante _____ tiene ___ años"
-2. Cree un algorimo que pregunte al usuario cuántos precios desea digitar y pida uno a uno con un ciclo while. Al finalizar, debe mostrar el total a pagar de la siguiente manera "por la compra de ___ articulos, usted debe pagar $___"
-3. cree un ciclo while que reciba la nota de 20 estudiantes, cada vez que reciba una nota, debe mostrar un mensaje al estudiante que diga "perdió la materia" en caso que haya sacado menos de 3.5 y "ganó la materia" si su nota fue mayor o igual que 3.5
