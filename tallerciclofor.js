@@ -7,8 +7,13 @@ ciclo for que imprima los números consecutivos ascendentemente, cuyo rango est�
 los dos números que ingresó el usuario. Ejemplo: el usuario ingresa el 38 y el 5, el ciclo
 for debe imprimir 5, 6, 7, 8, …, 38*/
 
-
-for(var i=5; i<=38; i+=1){
+var numero1 = parseInt(prompt("Ingrese el numero con el que quiere iniciar"))
+var numero2 = parseInt(prompt("Ingrese el numero con el que quiere finalizar"))
+if (numero1< numero2){
+for(var i=numero1; i<=numero2; i+=1)
+    console.log(i);
+}else{
+    for(var i=numero2; i<=numero1; i+=1)
     console.log(i);
 }
 2//
